@@ -3,7 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=noegracia&label=Profile%20views&color=0e75b6&style=flat" alt="noegracia" /> </p>
 
-- 🌱 I’m currently learning **AWS Certified Machine Learning Specialty 2023** and **german**.
+- 🌱 I’m currently learning **LLM** and **german**.
+
+- 💻 Check https://www.kenabot.xyz/
 
 - 👨‍💻 My portfolio (in progress): [https://noegracia.github.io/](https://noegracia.github.io/)
 
