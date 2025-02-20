@@ -7,7 +7,7 @@
 
 - 💻 Check https://www.kenabot.xyz/
 
-- 👨‍💻 My portfolio (in progress): [https://noegracia.github.io/](https://noegracia.github.io/)
+- 👨‍💻 My portfolio: [https://noegracia.github.io/](https://noegracia.github.io/)
 
 - 📫 Contact me: **noegraciagirona@gmail.com**
 
