@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=noegracia&label=Profile%20views&color=0e75b6&style=flat" alt="noegracia" /> </p>
 
-- 🌱 I’m currently learning **LLM** and **german**.
+- 🌱 Always learning new things.
 
 - 💻 Check https://www.kenabot.xyz/
 
